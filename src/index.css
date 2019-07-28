@@ -1,0 +1,12 @@
+button,
+.button {
+  margin-bottom: 0 !important;
+  margin-right: 0.5rem;
+  margin-top: 0.8rem;
+}
+h2 {
+  background-color: goldenrod;
+}
+th {
+  background-color: rgb(157, 142, 243);
+}
